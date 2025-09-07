@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Portfolio2/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/Portfolio2/static/js/main.aab3077e.chunk.js",
-    "main.js.map": "/Portfolio2/static/js/main.aab3077e.chunk.js.map",
-    "runtime-main.js": "/Portfolio2/static/js/runtime-main.be5ce8bd.js",
-    "runtime-main.js.map": "/Portfolio2/static/js/runtime-main.be5ce8bd.js.map",
-    "static/js/2.b3a957e8.chunk.js": "/Portfolio2/static/js/2.b3a957e8.chunk.js",
-    "static/js/2.b3a957e8.chunk.js.map": "/Portfolio2/static/js/2.b3a957e8.chunk.js.map",
-    "static/js/3.01e7be41.chunk.js": "/Portfolio2/static/js/3.01e7be41.chunk.js",
-    "static/js/3.01e7be41.chunk.js.map": "/Portfolio2/static/js/3.01e7be41.chunk.js.map",
-    "index.html": "/Portfolio2/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/Portfolio2/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.b3a957e8.chunk.js.LICENSE.txt": "/Portfolio2/static/js/2.b3a957e8.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Portfolio2/static/media/logo.6ce24c58.svg"
+    "main.css": "/your-repo/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/your-repo/static/js/main.aab3077e.chunk.js",
+    "main.js.map": "/your-repo/static/js/main.aab3077e.chunk.js.map",
+    "runtime-main.js": "/your-repo/static/js/runtime-main.ec36c333.js",
+    "runtime-main.js.map": "/your-repo/static/js/runtime-main.ec36c333.js.map",
+    "static/js/2.b3a957e8.chunk.js": "/your-repo/static/js/2.b3a957e8.chunk.js",
+    "static/js/2.b3a957e8.chunk.js.map": "/your-repo/static/js/2.b3a957e8.chunk.js.map",
+    "static/js/3.01e7be41.chunk.js": "/your-repo/static/js/3.01e7be41.chunk.js",
+    "static/js/3.01e7be41.chunk.js.map": "/your-repo/static/js/3.01e7be41.chunk.js.map",
+    "index.html": "/your-repo/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/your-repo/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b3a957e8.chunk.js.LICENSE.txt": "/your-repo/static/js/2.b3a957e8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/your-repo/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.be5ce8bd.js",
+    "static/js/runtime-main.ec36c333.js",
     "static/js/2.b3a957e8.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.aab3077e.chunk.js"
